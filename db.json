@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Student",
+      "grade":7,
+      "email":"stu@stu.com",
+      "password":1234,
+      "teacher":"King"
+    }
+    
+  ],
+  "teachers" : [
+    {
+      
+    }
+    ]
+  
+}
